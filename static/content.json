@@ -1,7 +1,7 @@
 {
   "panels": {
     "left": {
-      "text": "UI",
+      "text": "Blockchain",
       "url": "#moi",
       "images": {
         "horizontal": [
@@ -15,7 +15,7 @@
       }
     },
     "right": { 
-      "text": "visdev",
+      "text": "Artificial Intelligence",
       "url": "#disable",
       "images": {
         "horizontal": [
@@ -30,19 +30,19 @@
     }
   },
   "info": {
-    "introduction": "My name is Thomas Le Goff. I mainly work as a UI designer and visual development artist for media, fashion and games.",
-    "social": ["#facebook", "#twitter", "#instagram"],
-    "email": "email@email.com",
+    "introduction": "My name is James Lawton. I'm passionate about neuroscience, blockchain, robotics, and AI. I currently work at Max Planck as a blockchain & AI developer.",
+    "social": ["#facebook", "#linkedin"],
+    "email": "jameslawtontum@gmail.com",
     "portals": {
-      "ui": {
-        "title": "UI Portofolio",
-        "description": "An overview of the web and advertising projects I’ve worked on for agencies or in freelance, with a focus on corporate identity, branding, and typography.",
+      "Artificial Intelligence": {
+        "title": "AI Portfolio",
+        "description": "An overview of my work with artificial intelligence. I'm most passionate about AI applied to robotics, human-machine interaction and task generalization.",
         "imagename": "info-ui",
         "url": "#url"
       },
-      "visdev": {
-        "title": "Visdev Portofolio",
-        "description": "An overview of the web and advertising projects I’ve worked on for agencies or in freelance, with a focus on corporate identity, branding, and typography.",
+      "Blockchain": {
+        "title": "Blockchain Portofolio",
+        "description": "I build blockchain applications with a focus towards scientific applications to enhance the peer-review process, change current scientific publishing practices, and incentivize Open Access.",
         "imagename": "info-visdev",
         "url": "#url"
       }
