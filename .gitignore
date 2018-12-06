@@ -37,10 +37,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-pages/
-nuxt.config.js
-store/
-components/
+
 
 # TypeScript v1 declaration files
 typings/
