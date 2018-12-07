@@ -7,7 +7,7 @@
         
         :title="project.title"
         :description="project.description"
-        :thumbnail="`${project.imagename}.jpg`"
+        :thumbnail="`${project.imagename}`"
         :url="project.url"
         
         :breakpoint-labels="breakpointLabels">

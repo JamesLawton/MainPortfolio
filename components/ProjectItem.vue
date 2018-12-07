@@ -124,14 +124,14 @@ export default {
   background-size: 100%;
   background-position: 0 0;
   z-index: -1;
-  opacity: .8;
-  margin: 1px 0px 0 1px;
+  opacity: .6 !important;
+  margin: 25px 0px 0 1px;
   transition: opacity .15s ease-out;
 }
 
 .project-item:hover .thumbnail {
-  background-position: 0 100%;
-  opacity: 1;
+  background-position: 0 0;
+  opacity: 1 !important;
 }
 
 .text-container {

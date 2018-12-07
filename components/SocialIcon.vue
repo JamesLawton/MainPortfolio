@@ -3,7 +3,7 @@
     <div class="icon-container" :style="{width: size, height: size}">
       <svg class="icon" 
            preserveAspectRatio="none" 
-           v-if="icon === 'facebook'" 
+           v-if="icon === 'github'" 
            xmlns="http://www.w3.org/2000/svg" 
            :width="size"
            viewBox="0.000000 -49.285714 25.714286 25.714286">
@@ -11,7 +11,7 @@
       </svg>
       <svg class="icon" 
            preserveAspectRatio="none" 
-           v-else-if="icon === 'instagram'" 
+           v-else-if="icon === 'linkedin'" 
            xmlns="http://www.w3.org/2000/svg" 
            :width="size"
            viewBox="0.000000 -49.285714 25.714286 25.714286">
@@ -19,7 +19,7 @@
       </svg>
       <svg class="icon" 
            preserveAspectRatio="none" 
-           v-else-if="icon === 'twitter'" 
+           v-else-if="icon === ''" 
            xmlns="http://www.w3.org/2000/svg" 
            :width="size" 
            viewBox="0.736607 -42.857143 26.383929 21.428571">
@@ -34,7 +34,7 @@ export default {
   props: {
     icon: {
       type: String,
-      default: 'facebook'
+      default: 'github'
     },
     size: {
       type: Number,

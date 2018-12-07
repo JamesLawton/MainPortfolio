@@ -31,40 +31,40 @@
   },
   "info": {
     "introduction": "My name is James Lawton. I'm passionate about neuroscience, blockchain, robotics, and AI. I currently work at Max Planck as a blockchain & AI developer.",
-    "social": ["#facebook", "#linkedin"],
+    "social": ["#github", "#linkedin"],
     "email": "jameslawtontum@gmail.com",
     "portals": {
-      "Artificial Intelligence": {
-        "title": "AI Portfolio",
-        "description": "An overview of my work with artificial intelligence. I'm most passionate about AI applied to robotics, human-machine interaction and task generalization.",
-        "imagename": "info-ui",
-        "url": "#url"
+      "Blog": {
+        "title": "Blog",
+        "description": "An overview of my written blog posts. I write about a multitude of topics, but tend to focus on my mentioned research fields. Specifically, artificial-affect, task generalization, robotics, blockchain, modifications to the current scientific publishing model, amongst others.",
+        "imagename": "blog.jpeg",
+        "url": "https://medium.com/@james_lawton"
       },
-      "Blockchain": {
-        "title": "Blockchain Portofolio",
-        "description": "I build blockchain applications with a focus towards scientific applications to enhance the peer-review process, change current scientific publishing practices, and incentivize Open Access.",
+      "Web Development": {
+        "title": "Web Development",
+        "description": "I also build and manage websites and web applications for various clients. This includes decentralized applications, embedded neural networks, or performant and responsive websites for your business.",
         "imagename": "info-visdev",
         "url": "#url"
       }
     },
     "links":{
-      "introduction": "Here’s a selection of a couple places on the internet I use to showcase other kinds of works.",
+      "introduction": "Here's a selection of projects I am currently working on or have in the past.",
       "elements": [
         {
-          "title": "Other link",
-          "description": "An overview of the web and advertising projects I’ve worked on for agencies or in freelance, with a focus on corporate identity, branding, and typography.",
-          "imagename": "info-visdev",
-          "url": "#url"
+          "title": "Bloxberg",
+          "description": "Bloxberg is a scientific-focused blockchain consortium between various research institutions. These institutes run a node on a fork of Ethereum utilizing Proof of Authority consensus with the goal of providing scientific focused applications for researchers to enhance their work.",
+          "imagename": "blockchainui4.png",
+          "url": "https://bloxberg.org"
         },
         {
-          "title": "Yet another link",
-          "description": "An overview of the web and advertising projects I’ve worked on for agencies or in freelance, with a focus on corporate identity, branding, and typography.",
+          "title": "Write like your favorite author",
+          "description": "Two concurrent word-level recurrent neural networks. This project extracts semantic and syntactic information from a database of any author with a sufficient body of work and provides the user input into sentence construction. It currently utilizes the Harry Potter novels, so you can write your own Harry Potter book!",
           "imagename": "info-ui",
           "url": "#url"
         },
         {
-          "title": "It's a link",
-          "description": "An overview of the web and advertising projects I’ve worked on for agencies or in freelance, with a focus on corporate identity, branding, and typography.",
+          "title": "Meta Reinforcement Learning",
+          "description": "This project is an implementation of Meta RL, which essentially is a network that learns how to learn. The primary benefit is task generalization in that a single trained network can achieve high accuracy on multiple tasks in the same domain. This implementation is tested with three different bandits with varying degrees of difficulty.",
           "imagename": "info-visdev",
           "url": "#url"
         }
