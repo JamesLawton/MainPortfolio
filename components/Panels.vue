@@ -154,6 +154,7 @@ export default {
       height: 100%;
       position: relative;
       overflow: hidden;
+      opacity: .5;
     }
   }
 

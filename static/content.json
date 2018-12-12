@@ -5,9 +5,9 @@
       "url": "#moi",
       "images": {
         "horizontal": [
-          "ui1",
-          "ui2",
-          "ui3"
+          "blockchainui5.jpg",
+          "blockchainui2.jpg",
+          "blockchainui1.jpg"
         ],
         "vertical": [
           "SMXS-ui"
@@ -19,9 +19,9 @@
       "url": "#disable",
       "images": {
         "horizontal": [
-          "visdev1",
-          "visdev2",
-          "visdev3"
+          "ai1.jpg",
+          "ai2.jpg",
+          "ai3.jpg"
         ],
         "vertical": [
           "SMXS-visdev"

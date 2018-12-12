@@ -6,7 +6,7 @@
           :key="index"
           v-if="getTransitionPhase >= 3 && (windowWidth !== 'md' ? (index === indexer && active) : true)"
           @mousemove="doCarousell()"
-          :style="`background-image: url('/${image}.jpg')`">
+          :style="`background-image: url('/${image}')`">
       </div>
     </transition>
   </div>
